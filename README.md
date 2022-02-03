@@ -160,6 +160,7 @@ Braille, etc...
 + Would your web application be usable/understanded in black and white?
 + Can we consider novice users (in terms of technology knowledge) are suffering a dissability?
 + Can we consider not having a cutting edge device a dissability?
++ Why government websites do not use React/Angular/Vue/FancyNewJsFramework?
 
 ---
 
