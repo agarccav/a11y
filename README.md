@@ -1,4 +1,4 @@
-![Accessibility can be written a11y](images/a11y-spelled.png "")
+![Accessibility can be written a11y](images/a11y-spelled.PNG "")
 
 # a11y (WIP)
 
