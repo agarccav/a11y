@@ -150,4 +150,4 @@ Braille, etc...
 
 ---
 
-But the most important thing you can do is... puy yourself in the place of other people.
+But the most important thing you can do is... put yourself in the place of other people.
