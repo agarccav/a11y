@@ -1,3 +1,5 @@
+![Accessibility can be written a11y](images/a11y-spelled.png "")
+
 # a11y (WIP)
 
 ## About a11y
@@ -135,9 +137,15 @@ United States web accessibility related laws: https://dynomapper.com/blog/27-acc
 
 Braille, etc...
 
-## Samples:
+## Samples
 
 + prefers-reduced-motion, Video vs Image: https://codepen.io/agarcav/pen/eYezwNj
+
+## Worth reading
+
++ CSS tricks articles for accessibility: https://css-tricks.com/tag/accessibility/
+
++ The a11y project: https://www.a11yproject.com/
 
 ## Miscelanea
 
