@@ -71,6 +71,10 @@ United States web accessibility related laws: https://dynomapper.com/blog/27-acc
 + AA
 + AAA
 
+#### Highlights
+
++ Success criteria for contrast evaluation: https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html
+
 ### MDN
 
 + About CSS outline in MDN: https://developer.mozilla.org/es/docs/Web/CSS/outline
@@ -119,6 +123,7 @@ United States web accessibility related laws: https://dynomapper.com/blog/27-acc
 
 + Chrome devtools report
 + Chrome DOM inspector highlights
++ Contrast checker: https://webaim.org/resources/contrastchecker/
 
 ### Screen magnifiers
 
